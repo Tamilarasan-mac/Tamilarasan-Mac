@@ -56,6 +56,7 @@ I’m a backend developer passionate about designing scalable, maintainable, and
 📫 **Let’s Connect**  
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tamilarasanrajendran@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/tamil-arasan-79640a413/)
 
 
 ---
