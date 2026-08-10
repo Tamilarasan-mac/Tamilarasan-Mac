@@ -8,6 +8,7 @@
 
 I’m a backend developer passionate about designing scalable, maintainable, and high-performance applications. I enjoy solving real-world problems with clean code and continuously expanding my knowledge of backend technologies and software architecture.
 
+📍Chennai, India
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
