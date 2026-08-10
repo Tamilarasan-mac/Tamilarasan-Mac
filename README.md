@@ -53,6 +53,17 @@ I’m a backend developer passionate about designing scalable, maintainable, and
 - 📬 Test and document APIs with Postman
 - 📚 Continuously improve through DSA and System Design
 
+## 🚀 Featured Project
+**Backend: Java 17, Spring Boot 3.3.5, Spring Security + JWT, Maven, PostgreSQL, Flyway, MapStruct, Lombok**
+**Frontend: React 18, TypeScript, Vite, Tailwind CSS, Axios, React Hook Form + Zod, Recharts**
+
+- Modular monolith architecture with clean domain separation (user, contact, loan, collection, ledger, journal, transaction, dashboard, report)
+- Full audit trail (created_by, updated_by, timestamps) via a shared Auditable base class
+- Role-based access control with method-level @PreAuthorize security
+- Database schema managed via 9 Flyway migrations (V1–V9), validated against Hibernate (ddl-auto: validate)
+- Environment-configurable secrets: DB_PASSWORD, JWT_SECRET
+
+
 📫 **Let’s Connect**  
 
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tamilarasanrajendran@outlook.com)
