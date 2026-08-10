@@ -54,6 +54,7 @@ I’m a backend developer passionate about designing scalable, maintainable, and
 - 📚 Continuously improve through DSA and System Design
 
 📫 **Let’s Connect**  
+
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tamilarasanrajendran@outlook.com)
 
 
