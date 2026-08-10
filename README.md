@@ -56,6 +56,7 @@ I’m a backend developer passionate about designing scalable, maintainable, and
 ## 🚀 Featured Project
 ### 🗓️ Finance and Collection Management System
 **Backend: Java 17, Spring Boot 3.3.5, Spring Security + JWT, Maven, PostgreSQL, Flyway, MapStruct, Lombok**
+
 **Frontend: React 18, TypeScript, Vite, Tailwind CSS, Axios, React Hook Form + Zod, Recharts**
 
 - Modular monolith architecture with clean domain separation (user, contact, loan, collection, ledger, journal, transaction, dashboard, report)
