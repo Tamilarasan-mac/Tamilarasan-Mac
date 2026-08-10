@@ -53,6 +53,10 @@ I’m a backend developer passionate about designing scalable, maintainable, and
 - 📬 Test and document APIs with Postman
 - 📚 Continuously improve through DSA and System Design
 
+📫 **Let’s Connect**  
+[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:tamilarasanrajendran@outlook.com)
+
+
 ---
 
 ⚡ _“Code is like magic — if you know the spell, you can build anything.”_
