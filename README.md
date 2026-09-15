@@ -38,6 +38,7 @@ I’m a backend developer passionate about designing scalable, maintainable, and
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github]( https://img.shields.io/badge/Github-brightgreen?style=for-the-badge&logo=github&logoColor-white)
+![pgAdmin4]( https://img.shields.io/badge/pgAdmin4-royalblue?style=for-the-badge&logo=pgAdmin4&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
