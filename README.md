@@ -57,7 +57,7 @@ I’m a backend developer passionate about designing scalable, maintainable, and
 - 📚 Continuously improve through DSA and System Design
 
 ## 🚀 Featured Project
-### 🗓️ Finance and Collection Management System
+### 🗓️ Finance and Collection Management System [FCMS](https://github.com/Tamilarasan-mac/Finance-Collection-Management-Case-Study.git)
 **Backend: Java 17, Spring Boot 3.3.5, Spring Security + JWT, Maven, PostgreSQL, Flyway, MapStruct, Lombok**
 
 **Frontend: React 18, TypeScript, Vite, Tailwind CSS, Axios, React Hook Form + Zod, Recharts**
