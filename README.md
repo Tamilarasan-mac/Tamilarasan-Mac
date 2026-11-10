@@ -28,12 +28,14 @@ I enjoy designing REST APIs, working with microservices, and exploring practical
 **Backend**:
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+
+### AI / RAG
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-5A45FF?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-222222?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 
 **Database**:
 
