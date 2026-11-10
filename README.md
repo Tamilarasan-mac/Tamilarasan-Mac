@@ -40,7 +40,7 @@ I enjoy designing REST APIs, working with microservices, and exploring practical
 **Database**:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
+![pgvector](https://img.shields.io/badge/pgvector-FF0000?style=for-the-badge)
 ![H2 Database](https://img.shields.io/badge/H2_Database-003B57?style=for-the-badge)
 
 **Tools**:
