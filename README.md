@@ -6,7 +6,10 @@
 
 🚀 **About Me**
 
-I’m a backend developer passionate about designing scalable, maintainable, and high-performance applications. I enjoy solving real-world problems with clean code and continuously expanding my knowledge of backend technologies and software architecture.
+I’m a Java backend developer focused on building secure, reliable applications with Java 17/21, Spring Boot, and PostgreSQL.
+
+I enjoy designing REST APIs, working with microservices, and exploring practical AI integrations. My projects include a multi-tenant finance platform with a double-entry accounting engine, a document Q&A service using Spring AI, RAG, and pgvector, and a Spring Cloud microservices demo.
+
 
 📍Chennai, India
 
