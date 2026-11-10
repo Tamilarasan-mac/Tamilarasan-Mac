@@ -28,8 +28,11 @@ I enjoy designing REST APIs, working with microservices, and exploring practical
 **Backend**:
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-5A45FF?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-222222?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
 
 **Database**:
@@ -41,9 +44,6 @@ I enjoy designing REST APIs, working with microservices, and exploring practical
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github]( https://img.shields.io/badge/Github-brightgreen?style=for-the-badge&logo=github&logoColor-white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-5A45FF?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-222222?style=for-the-badge)
 ![pgAdmin4]( https://img.shields.io/badge/pgAdmin4-royalblue?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
